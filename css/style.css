@@ -7,6 +7,18 @@ header .container-fluid nav .bg-dark img {
     padding-left: 5px;
 }
 
+.bg-grey {
+    background-color: #BEBCBB;
+}
+
+.bg-blue {
+    background-color: #161C3B;
+}
+
+.bg-footer {
+    background-color: #1955A6;
+}
+
 .search-icon-nav {
     height: 30px;
     padding-left: 20px;
@@ -19,11 +31,38 @@ header .container-fluid nav .bg-dark img {
 .hero {
     background-image: url(../img/jumbo-bg.png);
     margin-top: 98px;
-    min-height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.section-base {
+.hero-games {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.hero .my-section {
+    margin-top: 400px;
+}
+
+.rounded {
+    border-radius: 20px!important;
+}
+
+.my-section-base {
+    padding: 25px 0;
+}
+
+.my-section-medium {
+    padding: 40px 0;
+}
+
+.my-section-large {
+    padding: 40px;
+}
+
+.img-hero,
+.section-title,
+.section-subtitle {
+    margin-bottom: 30px;
 }
