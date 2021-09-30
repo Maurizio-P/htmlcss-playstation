@@ -1,0 +1,29 @@
+header .container-fluid nav .bg-dark img {
+    height: 12px;
+}
+
+.chev-down {
+    height: 16px;
+    padding-left: 5px;
+}
+
+.search-icon-nav {
+    height: 30px;
+    padding-left: 20px;
+}
+
+.btn {
+    border-radius: 50px;
+}
+
+.hero {
+    background-image: url(../img/jumbo-bg.png);
+    margin-top: 98px;
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.section-base {
+
+}
