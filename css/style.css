@@ -33,12 +33,14 @@ header .container-fluid nav .bg-dark img {
     margin-top: 98px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: top;
 }
 
 .hero-games {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: top;
 }
 
 .hero .my-section {
